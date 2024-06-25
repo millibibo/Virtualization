@@ -1,0 +1,23 @@
+.withOutLibrary {
+    width: fit-content;
+    height: fit-content;
+    background-color: #3c6250;
+    margin: 2rem;
+    padding-inline: 2rem;
+    padding-block: 1rem;
+    border-radius: 2rem;
+    color: #fff;
+    font-size: 1rem;
+    text-align: start;
+    padding-bottom: 1rem;
+}
+
+
+.ul {
+    overflow-y: scroll;
+
+}
+
+.list-item {
+    padding: 1rem;
+}
